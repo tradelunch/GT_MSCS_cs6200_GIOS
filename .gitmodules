@@ -1,15 +1,15 @@
 [submodule "cs6200_environment"]
 	path = cs6200_environment
-	url = git@github.com:tradelunch/cs6200_environment.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6200_environment.git
 [submodule "cs6200_pr1"]
 	path = cs6200_pr1
-	url = git@github.com:tradelunch/cs6200_pr1.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6200_pr1.git
 [submodule "cs6200_pr3"]
 	path = cs6200_pr3
-	url = git@github.com:tradelunch/cs6200_pr3.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6200_pr3.git
 [submodule "cs6200_pr4"]
 	path = cs6200_pr4
-	url = git@github.com:tradelunch/cs6200_pr4.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6200_pr4.git
 [submodule "resources/study-c"]
 	path = resources/study-c
 	url = git@github.com:tradelunch/study-c.git
